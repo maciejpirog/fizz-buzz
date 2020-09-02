@@ -3,7 +3,7 @@ Dissecting the most difficult trivial programming puzzle
 
 The [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz#Programming) problem is said to be notoriously trivial, but it is __not__. Read the following (in the given order) to understand why:
 
-- [fizzbuzz.pdf](fizzbuzz.pdf) - Originally published in the [Monad.Reader](https://themonadreader.wordpress.com/) magazine :broken_heart:. It describes why the problem is actually an instance of a difficult programming pattern that seems to require either code duplication, information-flow vs. control-flow mismatch, or higher-order functions. Of course, we choose the latter.
+- [FizzBuzz in Haskell by Embedding a Domain-Specific Language (fizzbuzz.pdf)](fizzbuzz.pdf) - Originally published in the [Monad.Reader](https://themonadreader.wordpress.com/) magazine :broken_heart:. It describes why the problem is actually an instance of a difficult programming pattern that seems to require either code duplication, information-flow vs. control-flow mismatch, or higher-order functions. Of course, we choose the latter.
 
 - [fizzbuzz.c](fizzbuzz.c) - A C implementation of the solution proposed in the paper above. (Yes, if you look from the right angle, C is a dependently-typed functional language.)
 
