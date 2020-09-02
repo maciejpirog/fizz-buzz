@@ -7,7 +7,7 @@ The [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz#Programming) problem is s
 
 - [fizzbuzz.c](fizzbuzz.c) - A C implementation of the solution proposed in the paper above. (Yes, if you look from the right angle, C is a dependently-typed functional language.)
 
-- [fizzbuzz-semigroup.md](fizzbuzz-semigroup.md) - If you're inner pedant is still not satisfied, let's ditch the empty list.
+- [fizzbuzz-semigroup.md](fizzbuzz-semigroup.md) - If your inner pedant is still not satisfied, let's ditch the empty list.
 
 ## Ports
 
